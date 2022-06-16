@@ -66,12 +66,4 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%">
-  <h2>My Stats</h2>
-  <div style="width: 50%;">
-    <img src="https://activity-graph.herokuapp.com/graph?username=irfnd&theme=minimal" style="width: 100%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irfnd&theme=vue" style="width: 100%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=irfnd&theme=chartreuse-dark&layout=compact" style="width: 100%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfnd&theme=chartreuse-dark&layout=compact" style="width: 100%"/>
-  </div>
-</div>
+<img src="stats.svg" width="100%" height="100%">
