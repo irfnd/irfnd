@@ -66,4 +66,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
-<img src="stats.svg" width="100%" height="100%">
+## My Stats
+
+<img src="https://activity-graph.herokuapp.com/graph?username=irfnd&theme=minimal"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irfnd&theme=vue" style="width: 100%" />
