@@ -9,7 +9,7 @@
 - ❤️ I Love coding stuff
 - ✨ Fun Fact: **I like Lo-Fi Music**
 
-## 📝Languages
+## 📝 Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -51,7 +51,7 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## Tools and IDE
+## 🛠️ Tools and IDE
 
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -66,7 +66,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
-## My Stats
+## 📊 My Stats
 
 <img src="https://activity-graph.herokuapp.com/graph?username=irfnd&theme=minimal"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irfnd&theme=vue" style="width: 100%" />
