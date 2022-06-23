@@ -9,7 +9,7 @@
 - ❤️ I Love coding stuff
 - ✨ Fun Fact: **I really like Lo-Fi Music**
 
-## 🔗 Contact Me
+## 🔗 Connect Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Irfnd.iqbl/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/irfnd_iqbl)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/irfnd.iqbl)
