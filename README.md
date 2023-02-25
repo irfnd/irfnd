@@ -73,5 +73,4 @@
 
 ## 📊 My Stats
 
-<img src="https://activity-graph.herokuapp.com/graph?username=irfnd&theme=minimal"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irfnd&theme=vue" style="width: 100%" />
